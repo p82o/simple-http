@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.vscode/
+*.json
+.venv/
+.ruff_cache/
